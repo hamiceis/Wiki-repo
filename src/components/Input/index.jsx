@@ -21,6 +21,10 @@ export const Input = forwardRef(({dataRepos ,...props}, ref) => {
 //     </InputContainer>
 //   )
 // }
+//
+//
+//export forwardRef({ Input })
+//
 
 
 
